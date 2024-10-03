@@ -1,0 +1,32 @@
+body{
+    background-color: #fafaf8;
+    color: #00274C;
+}
+
+h1{
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: x-large;
+    color: #000000;
+    font-family: sans-serif;
+}
+
+.main{
+    display: hidden;
+}
+
+.main:focus{
+    color: #00274C;
+}
+
+nav li:hover{
+    border: 5px solid #000000
+}
+
+nav li:focus{
+    border: 5px solid #000000
+}
